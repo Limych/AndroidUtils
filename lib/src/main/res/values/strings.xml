@@ -1,0 +1,12 @@
+<resources>
+    <string name="lib_name" translatable="false">AndroidUtils</string>
+
+    <string name="rateme_action">Rate Me</string>
+	<string name="rateme_proceed">Yeeha!</string>
+	<string name="rateme_later">Later</string>
+
+	<string name="appupdate_action">New App Version Available</string>
+	<string name="appupdate_message">There are new version of app on Google Play.</string>
+	<string name="appupdate_install">Install</string>
+	<string name="appupdate_cancel">Later</string>
+</resources>
